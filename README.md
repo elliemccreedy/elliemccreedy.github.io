@@ -14,8 +14,6 @@
 
 <CENTER>
 
-<img src=“images/ryan.png”>
-
 <P><H1>  this is ellie mccreedy </H1></P>
 
 <P><B>  this is ellie mccreedy </B></P>
