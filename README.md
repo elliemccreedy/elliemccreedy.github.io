@@ -13,7 +13,7 @@
 
 <CENTER>
 
-<P><H1 style="font-family:helvetica">  this is ellie mccreedy </H1></P>
+<P style = "font-family:georgia,garamond,serif;><H1>  this is ellie mccreedy </H1></P>
 
 <P><B>  this is ellie mccreedy </B></P>
 
