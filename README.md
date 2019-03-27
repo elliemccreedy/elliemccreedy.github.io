@@ -8,15 +8,12 @@
 
 </HEAD>
 
-P { 
-font-family: Helvetica;
-}
 
 <BODY bgcolor=#FF0000 text=#FFFFFF>
 
 <CENTER>
 
-<P><H1>  this is ellie mccreedy </H1></P>
+<P><H1 style="font-family:helvetica">  this is ellie mccreedy </H1></P>
 
 <P><B>  this is ellie mccreedy </B></P>
 
