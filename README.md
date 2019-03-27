@@ -8,7 +8,9 @@
 
 </HEAD>
 
-<FONT FACE="arial">arial font</FONT>
+P { 
+font-family: Helvetica;
+}
 
 <BODY bgcolor=#FF0000 text=#FFFFFF>
 
